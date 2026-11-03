@@ -1,0 +1,7 @@
+segment,customers,sessions,sessions_per_month,stations_used,regions_used,kwh_avg,duration_avg,ticket_avg,dc300_share,recency_days,revenue_per_customer
+Power Users,400,257.5,7.28,32.81,9.0,47.01,35.13,27.82,0.21,2.08,7163.48
+Frequent Chargers,1603,72.27,2.6,27.51,8.9,46.94,35.09,27.84,0.2,8.1,2012.02
+Steady Regulars,3987,18.33,1.35,13.47,7.28,46.88,35.09,27.74,0.2,34.83,508.64
+One-Time Fast-Charge Visitors,497,1.0,1.0,1.0,1.0,75.97,19.45,38.68,1.0,1008.08,38.68
+One-Time Standard Visitors,713,1.02,1.0,1.02,1.01,49.27,24.72,25.29,0.0,1001.46,25.82
+One-Time Slow-Charge Visitors,800,1.07,1.0,1.06,1.04,33.3,48.97,17.1,0.0,1000.49,18.56

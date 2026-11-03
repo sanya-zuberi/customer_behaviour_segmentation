@@ -1,0 +1,3 @@
+test,customers,xgboost_accuracy,majority_baseline
+naive (all sessions),6000,0.899,0.664
+controlled (15 sessions each),5270,0.607,0.62

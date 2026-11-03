@@ -1,0 +1,7 @@
+segment,customers,sessions,kwh,revenue,customers_pct,sessions_pct,kwh_pct,revenue_pct,revenue_per_customer
+Power Users,400,103001,4842666.4,2865391.27,5.0,35.0,35.1,35.1,7163.0
+Frequent Chargers,1603,115845,5437388.1,3225274.98,20.0,39.4,39.4,39.5,2012.0
+Steady Regulars,3987,73099,3426528.1,2027950.58,49.8,24.9,24.8,24.8,509.0
+One-Time Fast-Charge Visitors,497,497,37755.7,19225.8,6.2,0.2,0.3,0.2,39.0
+One-Time Standard Visitors,713,727,35759.8,18406.14,8.9,0.2,0.3,0.2,26.0
+One-Time Slow-Charge Visitors,800,855,28647.7,14851.35,10.0,0.3,0.2,0.2,19.0

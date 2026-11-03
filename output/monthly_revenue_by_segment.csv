@@ -1,0 +1,161 @@
+month,segment,total_cost
+2022-01-01,Frequent Chargers,25065.37
+2022-01-01,One-Time Fast-Charge Visitors,3460.41
+2022-01-01,One-Time Slow-Charge Visitors,2554.1
+2022-01-01,One-Time Standard Visitors,3100.15
+2022-01-01,Power Users,28970.23
+2022-01-01,Steady Regulars,22269.92
+2022-02-01,Frequent Chargers,24481.84
+2022-02-01,One-Time Fast-Charge Visitors,3251.19
+2022-02-01,One-Time Slow-Charge Visitors,2131.63
+2022-02-01,One-Time Standard Visitors,2626.91
+2022-02-01,Power Users,28107.53
+2022-02-01,Steady Regulars,18890.55
+2022-03-01,Frequent Chargers,27099.84
+2022-03-01,One-Time Fast-Charge Visitors,3258.2
+2022-03-01,One-Time Slow-Charge Visitors,2539.13
+2022-03-01,One-Time Standard Visitors,3110.72
+2022-03-01,Power Users,30717.68
+2022-03-01,Steady Regulars,22138.97
+2022-04-01,Frequent Chargers,24882.52
+2022-04-01,One-Time Fast-Charge Visitors,3224.93
+2022-04-01,One-Time Slow-Charge Visitors,2105.88
+2022-04-01,One-Time Standard Visitors,3079.53
+2022-04-01,Power Users,30063.38
+2022-04-01,Steady Regulars,20381.5
+2022-05-01,Frequent Chargers,26661.67
+2022-05-01,One-Time Fast-Charge Visitors,3371.54
+2022-05-01,One-Time Slow-Charge Visitors,2459.9900000000002
+2022-05-01,One-Time Standard Visitors,3514.45
+2022-05-01,Power Users,31919.9
+2022-05-01,Steady Regulars,20670.67
+2022-06-01,Frequent Chargers,26204.4
+2022-06-01,One-Time Fast-Charge Visitors,2659.53
+2022-06-01,One-Time Slow-Charge Visitors,1828.65
+2022-06-01,One-Time Standard Visitors,2515.81
+2022-06-01,Power Users,30052.91
+2022-06-01,Steady Regulars,21398.04
+2022-07-01,Frequent Chargers,34078.39
+2022-07-01,Power Users,31256.89
+2022-07-01,Steady Regulars,21077.48
+2022-08-01,Frequent Chargers,36553.33
+2022-08-01,One-Time Slow-Charge Visitors,40.36
+2022-08-01,Power Users,30778.6
+2022-08-01,Steady Regulars,21877.44
+2022-09-01,Frequent Chargers,32882.63
+2022-09-01,One-Time Slow-Charge Visitors,34.239999999999995
+2022-09-01,Power Users,29215.86
+2022-09-01,Steady Regulars,20807.29
+2022-10-01,Frequent Chargers,34117.28
+2022-10-01,One-Time Slow-Charge Visitors,15.3
+2022-10-01,Power Users,30642.08
+2022-10-01,Steady Regulars,21519.5
+2022-11-01,Frequent Chargers,35291.25
+2022-11-01,One-Time Slow-Charge Visitors,40.3
+2022-11-01,Power Users,30562.56
+2022-11-01,Steady Regulars,20721.0
+2022-12-01,Frequent Chargers,33555.49
+2022-12-01,Power Users,31385.38
+2022-12-01,Steady Regulars,21549.48
+2023-01-01,Frequent Chargers,88214.72
+2023-01-01,Power Users,75959.0
+2023-01-01,Steady Regulars,58160.01
+2023-02-01,Frequent Chargers,81499.81
+2023-02-01,One-Time Slow-Charge Visitors,42.17
+2023-02-01,Power Users,71387.51
+2023-02-01,Steady Regulars,45896.34
+2023-03-01,Frequent Chargers,90498.17
+2023-03-01,One-Time Standard Visitors,75.78
+2023-03-01,Power Users,76482.62
+2023-03-01,Steady Regulars,55166.9
+2023-04-01,Frequent Chargers,82799.0
+2023-04-01,Power Users,74795.92
+2023-04-01,Steady Regulars,50803.74
+2023-05-01,Frequent Chargers,86516.14
+2023-05-01,One-Time Slow-Charge Visitors,17.61
+2023-05-01,Power Users,76634.36
+2023-05-01,Steady Regulars,57274.35
+2023-06-01,Frequent Chargers,86806.33
+2023-06-01,One-Time Slow-Charge Visitors,89.34
+2023-06-01,One-Time Standard Visitors,19.93
+2023-06-01,Power Users,75435.48
+2023-06-01,Steady Regulars,53034.64
+2023-07-01,Frequent Chargers,87863.09
+2023-07-01,Power Users,77383.17
+2023-07-01,Steady Regulars,53085.18
+2023-08-01,Frequent Chargers,88168.01
+2023-08-01,One-Time Slow-Charge Visitors,18.97
+2023-08-01,Power Users,77263.67
+2023-08-01,Steady Regulars,55533.23
+2023-09-01,Frequent Chargers,85900.69
+2023-09-01,One-Time Slow-Charge Visitors,70.89
+2023-09-01,Power Users,74491.6
+2023-09-01,Steady Regulars,51517.45
+2023-10-01,Frequent Chargers,87627.32
+2023-10-01,One-Time Slow-Charge Visitors,71.8
+2023-10-01,Power Users,74950.98
+2023-10-01,Steady Regulars,53350.6
+2023-11-01,Frequent Chargers,86264.7
+2023-11-01,One-Time Slow-Charge Visitors,61.83
+2023-11-01,Power Users,75413.3
+2023-11-01,Steady Regulars,52277.57
+2023-12-01,Frequent Chargers,86251.63
+2023-12-01,One-Time Slow-Charge Visitors,41.03
+2023-12-01,Power Users,77392.54
+2023-12-01,Steady Regulars,55164.8
+2024-01-01,Frequent Chargers,157581.84
+2024-01-01,One-Time Slow-Charge Visitors,98.55
+2024-01-01,One-Time Standard Visitors,27.19
+2024-01-01,Power Users,136497.52
+2024-01-01,Steady Regulars,94441.82
+2024-02-01,Frequent Chargers,146008.55
+2024-02-01,One-Time Slow-Charge Visitors,70.61
+2024-02-01,Power Users,129593.42
+2024-02-01,Steady Regulars,89992.9
+2024-03-01,Frequent Chargers,150466.86
+2024-03-01,One-Time Slow-Charge Visitors,17.54
+2024-03-01,One-Time Standard Visitors,32.67
+2024-03-01,Power Users,133378.83
+2024-03-01,Steady Regulars,93451.27
+2024-04-01,Frequent Chargers,151893.96
+2024-04-01,One-Time Slow-Charge Visitors,67.4
+2024-04-01,One-Time Standard Visitors,31.74
+2024-04-01,Power Users,126032.15
+2024-04-01,Steady Regulars,94712.28
+2024-05-01,Frequent Chargers,157059.01
+2024-05-01,One-Time Slow-Charge Visitors,142.53
+2024-05-01,One-Time Standard Visitors,45.02
+2024-05-01,Power Users,137558.22
+2024-05-01,Steady Regulars,95708.19
+2024-06-01,Frequent Chargers,147812.84
+2024-06-01,One-Time Slow-Charge Visitors,14.89
+2024-06-01,Power Users,130320.8
+2024-06-01,Steady Regulars,94681.48
+2024-07-01,Frequent Chargers,156386.27
+2024-07-01,One-Time Slow-Charge Visitors,60.66
+2024-07-01,Power Users,133086.88
+2024-07-01,Steady Regulars,96626.19
+2024-08-01,Frequent Chargers,152215.19
+2024-08-01,One-Time Slow-Charge Visitors,40.94
+2024-08-01,One-Time Standard Visitors,50.17
+2024-08-01,Power Users,131447.16
+2024-08-01,Steady Regulars,98313.75
+2024-09-01,Frequent Chargers,149898.59
+2024-09-01,One-Time Slow-Charge Visitors,37.91
+2024-09-01,One-Time Standard Visitors,52.08
+2024-09-01,Power Users,128181.13
+2024-09-01,Steady Regulars,92246.16
+2024-10-01,Frequent Chargers,153774.64
+2024-10-01,One-Time Slow-Charge Visitors,31.36
+2024-10-01,One-Time Standard Visitors,58.099999999999994
+2024-10-01,Power Users,136780.61
+2024-10-01,Steady Regulars,99019.38
+2024-11-01,Frequent Chargers,146138.22
+2024-11-01,One-Time Slow-Charge Visitors,44.81
+2024-11-01,Power Users,133898.8
+2024-11-01,Steady Regulars,90581.65
+2024-12-01,Frequent Chargers,156755.39
+2024-12-01,One-Time Slow-Charge Visitors,60.93
+2024-12-01,One-Time Standard Visitors,65.89
+2024-12-01,Power Users,137352.6
+2024-12-01,Steady Regulars,93608.86
